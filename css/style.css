@@ -1,0 +1,7 @@
+canvas {
+    border: 3px solid black;
+}
+
+#scaledCanvas {
+    display: none;
+}
